@@ -28,7 +28,7 @@ Beyond these roles, I've also worked in retail, assisted with catering for music
 
 **interests**
 | human-computer interaction | responsible AI governance | education | climate change | media and information literacy (MIL) |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 
 **languages** 
 | French | English | Spanish (professional) |
