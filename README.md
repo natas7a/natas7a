@@ -31,7 +31,7 @@ Beyond these roles, I've also worked in retail, assisted with catering for music
 |---|---|---|---|---|
 
 **languages** 
-| French | English | Spanish (professional) |
+| French | English | Spanish |
 |---|---|---|
 
 **right to work**
