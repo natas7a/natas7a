@@ -1,7 +1,7 @@
 ### hello!
 
 I'm a master's student in Computer Engineering and Global Design at [CY Tech](https://cytech.cyu.fr/) and [CY Cergy Paris Université](https://www.cyu.fr/), 
-currently a predoctoral visiting researcher at the [TIDE Lab](https://tide.upf.edu) (Universitat Pompeu Fabra), where I'm researching the societal impacts of GenAI in education — specifically how chatbot roles affect overreliance in computer-supported collaborative learning environments.
+currently a predoctoral visiting researcher at the [TIDE Lab](https://tide.upf.edu) at [Universitat Pompeu Fabra](https://www.upf.edu/), where I'm researching the societal impacts of GenAI in education — specifically how chatbot roles affect overreliance in computer-supported collaborative learning environments.
 
 The rest of my work tends to circle the same question from different angles: how do technologies that claim to serve people actually affect them?
 
