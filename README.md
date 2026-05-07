@@ -1,18 +1,14 @@
 ### hello!
 
-I'm a master's student in Computer Engineering and Global Design, 
-currently a predoctoral visiting researcher at the 
-[TIDE Lab](https://tide.upf.edu) (Universitat Pompeu Fabra), 
-where I'm researching the societal impacts of GenAI in education — 
-specifically how chatbot design affects overreliance in collaborative learning environments.
+I'm a master's student in Computer Engineering and Global Design at [CY Tech](https://cytech.cyu.fr/) and [CY Cergy Paris Université](https://www.cyu.fr/), 
+currently a predoctoral visiting researcher at the [TIDE Lab](https://tide.upf.edu) (Universitat Pompeu Fabra), where I'm researching the societal impacts of GenAI in education — specifically how chatbot roles affect overreliance in computer-supported collaborative learning environments.
 
-The rest of my work tends to circle the same question from different angles: 
-how do technologies that claim to serve people actually affect them?
+The rest of my work tends to circle the same question from different angles: how do technologies that claim to serve people actually affect them?
 
 ---
 
 **currently**
-- 🔬 researching GenAI chatbot roles & student overtrust @ TIDE Lab, UPF
+- 🔬 researching GenAI chatbot roles & student overtrust @ [TIDE Lab](https://tide.upf.edu), Universitat Pompeu Fabra
 - 🌐 steering committee member @ [UNESCO Global Youth Community](https://www.unesco.org/en/youth/global-youth-community)
 - 🐾 fellow @ [Sentient Futures](https://www.sentientfutures.ai/) AIxAnimals — AI & animal welfare governance
 - 🌍 fellow @ [Chatham House CFC](https://www.chathamhouse.org/academy/common-futures-conversations) — member of the AI & Technology group
