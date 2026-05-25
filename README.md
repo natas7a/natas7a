@@ -16,7 +16,7 @@ The rest of my work tends to circle the same question from different angles: how
 - 🌻 co-founder @ [Sunflower](https://sunflower-data.com/) — civic tech for open data access & media and information literacy
 
 **previously**
-- 🐾 fellow @ [Sentient Futures](https://www.sentientfutures.ai/) AIxAnimals — AI & animal welfare governance
+- 🐾 fellow @ [Sentient Futures](https://www.sentientfutures.ai/) AIxAnimals — AI & animal welfare
 - 🏙️ delegate & member of the follow-up group @ [UNESCO's 14th Youth Forum](https://www.unesco.org/en/articles/14th-edition-unesco-youth-forum) — focus: Climate Action and Social Impacts, Particularly for Young People
 - 📚 deputy director of education @ [Climate Cardinals](https://www.climatecardinals.org/) — managing programmes across 80+ countries
 - 🌿 delegate @ [Pan-European Summit on Climate Resilience](https://www.pass.va/en/events/2025/climate_resilience_summits/final_statement.html)
