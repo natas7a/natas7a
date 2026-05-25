@@ -43,4 +43,5 @@ Beyond these roles, I've also worked in retail, assisted with catering for music
 find me:
 [linkedin](https://www.linkedin.com/in/natashalitherland) · 
 [medium](https://medium.com/@natlith) · 
+[substack](https://uncertainty101.substack.com/archive) · 
 [orcid](https://orcid.org/0009-0009-7595-9025)
