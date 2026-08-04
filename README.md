@@ -8,16 +8,15 @@ The rest of my work tends to circle the same question from different angles: how
 ---
 
 **currently**
-- 🔬 researching GenAI chatbot roles & student overtrust @ [TIDE Lab](https://tide.upf.edu), Universitat Pompeu Fabra
 - 🌐 steering committee member @ [UNESCO Global Youth Community](https://www.unesco.org/en/youth/global-youth-community)
+- 🏙️ delegate & member of the follow-up group @ [UNESCO's 14th Youth Forum](https://www.unesco.org/en/articles/14th-edition-unesco-youth-forum) — focus: Climate Action and Social Impacts, Particularly for Young People
 - 🌍 fellow @ [Chatham House CFC](https://www.chathamhouse.org/academy/common-futures-conversations) — member of the AI & Technology group
-- 🏛️ fellow @ [AFFINE](https://www.affi.ne/) Online Superintelligence Alignment Seminar — AI governance & societal impacts
-- 🌱 fellow @ [AISPP](https://coda.io/@aispp-application/aispp-promo) Climate & AI cohort (Round 3) — possibilities of AI within the climate space
 - 🌻 co-founder @ [Sunflower](https://sunflower-data.com/) — civic tech for open data access & media and information literacy
 
 **previously**
+- 🔬 researching GenAI chatbot roles & student overtrust @ [TIDE Lab](https://tide.upf.edu), Universitat Pompeu Fabra
+- - 🌱 fellow @ [AISPP](https://coda.io/@aispp-application/aispp-promo) Climate & AI cohort (Round 3) — possibilities of AI within the climate space
 - 🐾 fellow @ [Sentient Futures](https://www.sentientfutures.ai/) AIxAnimals — AI & animal welfare
-- 🏙️ delegate & member of the follow-up group @ [UNESCO's 14th Youth Forum](https://www.unesco.org/en/articles/14th-edition-unesco-youth-forum) — focus: Climate Action and Social Impacts, Particularly for Young People
 - 📚 deputy director of education @ [Climate Cardinals](https://www.climatecardinals.org/) — managing programmes across 80+ countries
 - 🌿 delegate @ [Pan-European Summit on Climate Resilience](https://www.pass.va/en/events/2025/climate_resilience_summits/final_statement.html)
 - 🖼️ ambassador @ [pass Culture](https://pass.culture.fr/), the French national initiative for cultural accessibility — organised a 1-day festival on European identity
@@ -43,5 +42,4 @@ Beyond these roles, I've also worked in retail, assisted with catering for music
 find me:
 [linkedin](https://www.linkedin.com/in/natashalitherland) · 
 [medium](https://medium.com/@natlith) · 
-[substack](https://uncertainty101.substack.com/archive) · 
 [orcid](https://orcid.org/0009-0009-7595-9025)
