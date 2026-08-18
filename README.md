@@ -1,30 +1,5 @@
 ### hello!
 
-I'm a master's student in Computer Engineering and Global Design at [CY Tech](https://cytech.cyu.fr/) and [CY Cergy Paris Université](https://www.cyu.fr/), 
-currently a predoctoral visiting researcher at the [TIDE Lab](https://tide.upf.edu) at [Universitat Pompeu Fabra](https://www.upf.edu/), where I'm researching the societal impacts of GenAI in education — specifically how chatbot roles affect overreliance in computer-supported collaborative learning environments.
-
-The rest of my work tends to circle the same question from different angles: how do technologies that claim to serve people actually affect them?
-
----
-
-**currently**
-- 🌐 steering committee member @ [UNESCO Global Youth Community](https://www.unesco.org/en/youth/global-youth-community)
-- 🏙️ delegate & member of the follow-up group @ [UNESCO's 14th Youth Forum](https://www.unesco.org/en/articles/14th-edition-unesco-youth-forum) — focus: Climate Action and Social Impacts, Particularly for Young People
-- 🌍 fellow @ [Chatham House CFC](https://www.chathamhouse.org/academy/common-futures-conversations) — member of the AI & Technology group
-- 🌻 co-founder @ [Sunflower](https://sunflower-data.com/) — civic tech for open data access & media and information literacy
-
-**previously**
-- 🔬 researching GenAI chatbot roles & student overtrust @ [TIDE Lab](https://tide.upf.edu), Universitat Pompeu Fabra
-- - 🌱 fellow @ [AISPP](https://coda.io/@aispp-application/aispp-promo) Climate & AI cohort (Round 3) — possibilities of AI within the climate space
-- 🐾 fellow @ [Sentient Futures](https://www.sentientfutures.ai/) AIxAnimals — AI & animal welfare
-- 📚 deputy director of education @ [Climate Cardinals](https://www.climatecardinals.org/) — managing programmes across 80+ countries
-- 🌿 delegate @ [Pan-European Summit on Climate Resilience](https://www.pass.va/en/events/2025/climate_resilience_summits/final_statement.html)
-- 🖼️ ambassador @ [pass Culture](https://pass.culture.fr/), the French national initiative for cultural accessibility — organised a 1-day festival on European identity
-
-Beyond these roles, I've also worked in retail, assisted with catering for music festivals, and worked as a broadcast liaison officer at the 2024 Olympic Games.
-
----
-
 **interests**
 | human-computer interaction | societal impacts of AI | education | climate change | media and information literacy (MIL) |
 |---|---|---|---|---|
